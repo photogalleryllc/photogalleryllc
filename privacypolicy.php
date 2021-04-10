@@ -98,7 +98,7 @@
                   periodically for any changes. We will
                   notify you of any changes by posting the new Privacy Policy on
                   this page.
-                </p> <p>This policy is effective as of 2020-10-15</p> <p><strong>Contact Us</strong></p> <p>
+                </p> <p>This policy is effective as of 2021-04-01</p> <p><strong>Contact Us</strong></p> <p>
                   If you have any questions or suggestions about our
                   Privacy Policy, do not hesitate to contact us at [photogalleryllc@gmail.com].
                 </p>
